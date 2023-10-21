@@ -4,8 +4,6 @@
 </div>
 
 ## Install
-<div align="center">
-<div>
 
 ## Install
 ```
