@@ -4,6 +4,10 @@
 </div>
 
 ## Install
+<div align="center">
+<div>
+
+## Install
 ```
 git clone https://github.com/KaptanLingu/debloated-gnome/ && cd debloated-gnome
 ```
