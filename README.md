@@ -21,6 +21,8 @@ Bu betiği kurmadan önce bilmelisiniz ki bu betik, herhangi bir masaüstü orta
 
 `gnome-system-monitor`  GNOME'un görev yöneticisi uygulaması.
 
+`gnome-shell-extensions`  GNOME için eklenti ekler.
+
 `eog`  GNOME'un resim görüntüleyici uygulaması.
 
 `file-roller`  Sıkıştırılmış dosyaları açmaya ve ayıklamaya yarar.
@@ -32,6 +34,13 @@ Bu betiği kurmadan önce bilmelisiniz ki bu betik, herhangi bir masaüstü orta
 `vlc`  Basit ve kullanışlı bir medya oynatıcısı.
 
 `power-profiles-daemon`  Güç denetimini ayarlamaya yarar.
+
+`xdg-user-dirs`  İndirilenler, Belgeler gibi bölümleri ekler.
+
+`fish`  Terminal kullanımını kolaylaştırır.
+
+`nala`  Debian'da terminal indirmelerini daha kullanışlı hale getirir.
+
 
 ## [TR] YÜKLEME
 ```
