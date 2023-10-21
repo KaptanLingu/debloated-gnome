@@ -4,8 +4,6 @@
 </div>
 
 ## Install
-
-## Install
 ```
 git clone https://github.com/KaptanLingu/debloated-gnome/ && cd debloated-gnome
 ```
