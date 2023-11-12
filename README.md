@@ -23,6 +23,8 @@ Bu betiği kurmadan önce bilmelisiniz ki bu betik, herhangi bir masaüstü orta
 
 `gnome-shell-extensions`  GNOME için eklenti ekler.
 
+`chrome-gnome-shell`  GNOME eklentilerini indirmeyi sağlar.
+
 `eog`  GNOME'un resim görüntüleyici uygulaması.
 
 `file-roller`  Sıkıştırılmış dosyaları açmaya ve ayıklamaya yarar.
@@ -44,7 +46,7 @@ Bu betiği kurmadan önce bilmelisiniz ki bu betik, herhangi bir masaüstü orta
 
 ## [TR] YÜKLEME
 ```
-git clone https://github.com/KaptanLingu/debloated-gnome.git && cd debloated-gnome
+git clone https://github.com/KaptanLingu/debloated-gnome.git && cd debloated-gnome && chmod +x *.sh
 ```
-Yukarıdaki komutu girdikten sonra Debian kullanıyorsanız `./debian.sh` Arch kullanıyorsanız `arch.sh` komutunu girin.
+Yukarıdaki komutu girdikten sonra Debian veya Debian tabamlı bir dağıtım kullanıyorsanız ilk önce `su -` ve sonra `./debian.sh` Arch veya Arch tabamlı bir dağıtım kullanıyorsanız `./arch.sh` komutunu girin.
 
