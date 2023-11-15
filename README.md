@@ -48,5 +48,5 @@ Bu betiği kurmadan önce bilmelisiniz ki bu betik, herhangi bir masaüstü orta
 ```
 git clone https://github.com/KaptanLingu/debloated-gnome.git && cd debloated-gnome && chmod +x *.sh
 ```
-Yukarıdaki komutu girdikten sonra Debian veya Debian tabamlı bir dağıtım kullanıyorsanız ilk önce `su -` ve sonra `./debian.sh` Arch veya Arch tabamlı bir dağıtım kullanıyorsanız `./arch.sh` komutunu girin.
+İlk önce sisteminizde `git` paketinin yüklü olduğundan emin olun. Sonra yukarıdaki komutu girin. Yukarıdaki komutu girdikten sonra Debian veya Debian tabamlı bir dağıtım kullanıyorsanız `./debian.sh` Arch veya Arch tabamlı bir dağıtım kullanıyorsanız `./arch.sh` komutunu girin.
 
