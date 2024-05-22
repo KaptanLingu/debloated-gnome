@@ -29,7 +29,7 @@ Bu betiği kurmadan önce bilmelisiniz ki bu betik, herhangi bir masaüstü orta
 
 `file-roller`  Sıkıştırılmış dosyaları açmaya ve ayıklamaya yarar.
 
-`nemo`  Basit ve kullanışlı bir dosya yöneticisi uygulaması.
+`nautilus`  Basit ve kullanışlı bir dosya yöneticisi uygulaması.
 
 `mousepad`  Basit, kullanışlı ve hafif bir not uygulaması.
 
@@ -38,10 +38,6 @@ Bu betiği kurmadan önce bilmelisiniz ki bu betik, herhangi bir masaüstü orta
 `power-profiles-daemon`  Güç denetimini ayarlamaya yarar.
 
 `xdg-user-dirs`  İndirilenler, Belgeler gibi bölümleri ekler.
-
-`fish`  Terminal kullanımını kolaylaştırır.
-
-`nala`  Debian'da terminal indirmelerini daha kullanışlı hale getirir.
 
 
 ## [TR] YÜKLEME
